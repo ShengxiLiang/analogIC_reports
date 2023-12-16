@@ -6,9 +6,9 @@ This repository contains a collection of selected report samples related to Anal
 ### `2022_courses`
 This folder includes my Analog IC lab reports from my exchange at UC Berkeley.
 
-- `Lab1`: Features hand calculations and analysis.
-- `Lab2`: Contains MATLAB code and demonstrations of simulation iterations.
-- `Final`: Showcases the process of multi-criteria tradeoff.
+- `Shengxi-Lab1`: Features hand calculations and analysis.
+- `Shengxi-Lab2`: Contains MATLAB code and demonstrations of simulation iterations.
+- `Shengxi-Final`: Showcases the process of multi-criteria tradeoff.
 
 ### `2023_courses`
 This folder includes some of my course projects at UESTC.
