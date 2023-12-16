@@ -18,7 +18,7 @@ This folder includes some of my course projects at UESTC.
 
 ## About the Repository
 
-These reports reflect my journey and learning in the field of Analog ICs. They are meant to provide insights into my approach and understanding of complex IC concepts and practical applications.
+These reports reflect my journey and learning in the field of Analog ICs.
 
 ## Usage
 
